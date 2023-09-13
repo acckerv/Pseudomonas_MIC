@@ -1,0 +1,6 @@
+P.fluorescens(Dmel)	P.fluorescens(Dmel)	P.aeruginosa(PA01)	P.aeruginosa(PA01)	P.putida(KL2480?)	P.putida(KL2480?)	P.fluorescens(Pf0-1)	P.fluorescens(Pf0-1)
+P.fluorescens(Dmel)	P.fluorescens(Dmel)	P.aeruginosa(PA01)	P.aeruginosa(PA01)	P.putida(KL2480?)	P.putida(KL2480?)	P.fluorescens(Pf0-1)	P.fluorescens(Pf0-1)
+P.fluorescens(Dmel)	P.fluorescens(Dmel)	P.aeruginosa(PA01)	P.aeruginosa(PA01)	P.putida(KL2480?)	P.putida(KL2480?)	P.fluorescens(Pf0-1)	P.fluorescens(Pf0-1)
+P.fluorescens(Dmel)	P.fluorescens(Dmel)	P.aeruginosa(PA01)	P.aeruginosa(PA01)	P.putida(KL2480?)	P.putida(KL2480?)	P.fluorescens(Pf0-1)	P.fluorescens(Pf0-1)
+P.fluorescens(Dmel)	P.fluorescens(Dmel)	P.aeruginosa(PA01)	P.aeruginosa(PA01)	P.putida(KL2480?)	P.putida(KL2480?)	P.fluorescens(Pf0-1)	P.fluorescens(Pf0-1)
+P.fluorescens(Dmel)	P.fluorescens(Dmel)	P.aeruginosa(PA01)	P.aeruginosa(PA01)	P.putida(KL2480?)	P.putida(KL2480?)	P.fluorescens(Pf0-1)	P.fluorescens(Pf0-1)
